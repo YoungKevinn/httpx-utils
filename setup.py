@@ -13,7 +13,7 @@ _validate_environment()
 
 setup(
     name="httpx-utils",
-    version="1.0.2",
+    version="1.0.3",
     description="Lightweight utility helpers for HTTP operations in Python",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
